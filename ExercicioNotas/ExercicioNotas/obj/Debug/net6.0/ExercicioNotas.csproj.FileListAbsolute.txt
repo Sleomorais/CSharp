@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\bin\Debug\net6.0\ExercicioNotas.exe
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\bin\Debug\net6.0\ExercicioNotas.deps.json
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\bin\Debug\net6.0\ExercicioNotas.runtimeconfig.json
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\bin\Debug\net6.0\ExercicioNotas.dll
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\bin\Debug\net6.0\ExercicioNotas.pdb
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.AssemblyInfo.cs
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.dll
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\refint\ExercicioNotas.dll
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.pdb
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ExercicioNotas.genruntimeconfig.cache
+C:\Users\leona\source\repos\ExercicioNotas\ExercicioNotas\obj\Debug\net6.0\ref\ExercicioNotas.dll

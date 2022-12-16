@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.exe
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.deps.json
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.runtimeconfig.json
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.dll
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.pdb
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.AssemblyInfo.cs
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.dll
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\refint\ListaFuncionarios.dll
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.pdb
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.genruntimeconfig.cache
+C:\Users\leona\source\repos\Exercicios\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ref\ListaFuncionarios.dll

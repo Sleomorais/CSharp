@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\bin\Debug\net6.0\Conta.exe
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\bin\Debug\net6.0\Conta.deps.json
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\bin\Debug\net6.0\Conta.runtimeconfig.json
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\bin\Debug\net6.0\Conta.dll
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\bin\Debug\net6.0\Conta.pdb
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfo.cs
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.dll
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\refint\Conta.dll
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.pdb
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\Conta.genruntimeconfig.cache
+C:\Users\leona\source\repos\Exercicios\Conta\Conta\obj\Debug\net6.0\ref\Conta.dll

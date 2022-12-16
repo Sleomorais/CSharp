@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\bin\Debug\net6.0\Quartos.exe
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\bin\Debug\net6.0\Quartos.deps.json
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\bin\Debug\net6.0\Quartos.runtimeconfig.json
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\bin\Debug\net6.0\Quartos.dll
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\bin\Debug\net6.0\Quartos.pdb
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.AssemblyInfo.cs
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.dll
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\refint\Quartos.dll
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.pdb
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\Quartos.genruntimeconfig.cache
+C:\Users\leona\source\repos\Exercicios\Quartos\Quartos\obj\Debug\net6.0\ref\Quartos.dll
