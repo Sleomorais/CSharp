@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Pedido\Pedido\bin\Debug\net6.0\Pedido.exe
+C:\Users\leona\source\repos\Pedido\Pedido\bin\Debug\net6.0\Pedido.deps.json
+C:\Users\leona\source\repos\Pedido\Pedido\bin\Debug\net6.0\Pedido.runtimeconfig.json
+C:\Users\leona\source\repos\Pedido\Pedido\bin\Debug\net6.0\Pedido.dll
+C:\Users\leona\source\repos\Pedido\Pedido\bin\Debug\net6.0\Pedido.pdb
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.AssemblyInfo.cs
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.dll
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\refint\Pedido.dll
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.pdb
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\Pedido.genruntimeconfig.cache
+C:\Users\leona\source\repos\Pedido\Pedido\obj\Debug\net6.0\ref\Pedido.dll
