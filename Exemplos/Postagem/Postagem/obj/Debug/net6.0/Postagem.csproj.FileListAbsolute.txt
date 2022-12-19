@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Postagem\Postagem\bin\Debug\net6.0\Postagem.exe
+C:\Users\leona\source\repos\Postagem\Postagem\bin\Debug\net6.0\Postagem.deps.json
+C:\Users\leona\source\repos\Postagem\Postagem\bin\Debug\net6.0\Postagem.runtimeconfig.json
+C:\Users\leona\source\repos\Postagem\Postagem\bin\Debug\net6.0\Postagem.dll
+C:\Users\leona\source\repos\Postagem\Postagem\bin\Debug\net6.0\Postagem.pdb
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.AssemblyInfo.cs
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.dll
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\refint\Postagem.dll
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.pdb
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\Postagem.genruntimeconfig.cache
+C:\Users\leona\source\repos\Postagem\Postagem\obj\Debug\net6.0\ref\Postagem.dll
