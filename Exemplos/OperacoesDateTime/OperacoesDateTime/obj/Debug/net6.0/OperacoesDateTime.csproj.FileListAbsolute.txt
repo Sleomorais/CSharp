@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.exe
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.deps.json
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.runtimeconfig.json
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.dll
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.pdb
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.AssemblyInfo.cs
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.dll
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\refint\OperacoesDateTime.dll
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.pdb
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.genruntimeconfig.cache
+C:\Users\leona\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\ref\OperacoesDateTime.dll

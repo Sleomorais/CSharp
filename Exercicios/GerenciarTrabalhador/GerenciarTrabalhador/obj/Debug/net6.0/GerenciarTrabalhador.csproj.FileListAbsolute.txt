@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\bin\Debug\net6.0\GerenciarTrabalhador.exe
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\bin\Debug\net6.0\GerenciarTrabalhador.deps.json
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\bin\Debug\net6.0\GerenciarTrabalhador.runtimeconfig.json
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\bin\Debug\net6.0\GerenciarTrabalhador.dll
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\bin\Debug\net6.0\GerenciarTrabalhador.pdb
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.AssemblyInfo.cs
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.dll
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\refint\GerenciarTrabalhador.dll
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.pdb
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\GerenciarTrabalhador.genruntimeconfig.cache
+C:\Users\leona\source\repos\Exercicios\GerenciarTrabalhador\GerenciarTrabalhador\obj\Debug\net6.0\ref\GerenciarTrabalhador.dll

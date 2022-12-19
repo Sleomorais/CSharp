@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\bin\Debug\net6.0\CourseConstrutor.exe
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\bin\Debug\net6.0\CourseConstrutor.deps.json
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\bin\Debug\net6.0\CourseConstrutor.runtimeconfig.json
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\bin\Debug\net6.0\CourseConstrutor.dll
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\bin\Debug\net6.0\CourseConstrutor.pdb
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.AssemblyInfo.cs
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.dll
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\refint\CourseConstrutor.dll
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.pdb
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\CourseConstrutor.genruntimeconfig.cache
+C:\Users\leona\source\repos\CourseConstrutor\CourseConstrutor\obj\Debug\net6.0\ref\CourseConstrutor.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\bin\Debug\net6.0\FDateTimeKind.exe
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\bin\Debug\net6.0\FDateTimeKind.deps.json
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\bin\Debug\net6.0\FDateTimeKind.runtimeconfig.json
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\bin\Debug\net6.0\FDateTimeKind.dll
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\bin\Debug\net6.0\FDateTimeKind.pdb
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.AssemblyInfo.cs
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.dll
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\refint\FDateTimeKind.dll
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.pdb
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\FDateTimeKind.genruntimeconfig.cache
+C:\Users\leona\source\repos\FDateTimeKind\FDateTimeKind\obj\Debug\net6.0\ref\FDateTimeKind.dll
