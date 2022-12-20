@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\bin\Debug\net6.0\ContaComHeranca.exe
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\bin\Debug\net6.0\ContaComHeranca.deps.json
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\bin\Debug\net6.0\ContaComHeranca.runtimeconfig.json
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\bin\Debug\net6.0\ContaComHeranca.dll
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\bin\Debug\net6.0\ContaComHeranca.pdb
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.AssemblyInfo.cs
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.dll
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\refint\ContaComHeranca.dll
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.pdb
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ContaComHeranca.genruntimeconfig.cache
+C:\Users\leona\source\repos\ContaComHeranca\ContaComHeranca\obj\Debug\net6.0\ref\ContaComHeranca.dll
