@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\bin\Debug\net6.0\ExercicioFuncionarioHeranca.exe
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\bin\Debug\net6.0\ExercicioFuncionarioHeranca.deps.json
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\bin\Debug\net6.0\ExercicioFuncionarioHeranca.runtimeconfig.json
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\bin\Debug\net6.0\ExercicioFuncionarioHeranca.dll
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\bin\Debug\net6.0\ExercicioFuncionarioHeranca.pdb
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.AssemblyInfo.cs
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.dll
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\refint\ExercicioFuncionarioHeranca.dll
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.pdb
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ExercicioFuncionarioHeranca.genruntimeconfig.cache
+C:\Users\leona\source\repos\ExercicioFuncionarioHeranca\ExercicioFuncionarioHeranca\obj\Debug\net6.0\ref\ExercicioFuncionarioHeranca.dll
