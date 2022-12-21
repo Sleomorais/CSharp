@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Payers\Payers\bin\Debug\net6.0\Payers.exe
+C:\Users\leona\source\repos\Payers\Payers\bin\Debug\net6.0\Payers.deps.json
+C:\Users\leona\source\repos\Payers\Payers\bin\Debug\net6.0\Payers.runtimeconfig.json
+C:\Users\leona\source\repos\Payers\Payers\bin\Debug\net6.0\Payers.dll
+C:\Users\leona\source\repos\Payers\Payers\bin\Debug\net6.0\Payers.pdb
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.AssemblyInfo.cs
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.dll
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\refint\Payers.dll
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.pdb
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\Payers.genruntimeconfig.cache
+C:\Users\leona\source\repos\Payers\Payers\obj\Debug\net6.0\ref\Payers.dll
