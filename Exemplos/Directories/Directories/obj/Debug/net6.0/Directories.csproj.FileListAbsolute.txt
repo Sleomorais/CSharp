@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Directories\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\leona\source\repos\Directories\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\leona\source\repos\Directories\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\leona\source\repos\Directories\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\leona\source\repos\Directories\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\leona\source\repos\Directories\Directories\obj\Debug\net6.0\ref\Directories.dll
