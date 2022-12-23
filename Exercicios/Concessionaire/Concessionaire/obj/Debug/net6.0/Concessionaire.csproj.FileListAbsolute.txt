@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\bin\Debug\net6.0\Concessionaire.exe
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\bin\Debug\net6.0\Concessionaire.deps.json
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\bin\Debug\net6.0\Concessionaire.runtimeconfig.json
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\bin\Debug\net6.0\Concessionaire.dll
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\bin\Debug\net6.0\Concessionaire.pdb
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.AssemblyInfo.cs
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.dll
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\refint\Concessionaire.dll
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.pdb
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\Concessionaire.genruntimeconfig.cache
+C:\Users\leona\source\repos\Concessionaire\Concessionaire\obj\Debug\net6.0\ref\Concessionaire.dll
