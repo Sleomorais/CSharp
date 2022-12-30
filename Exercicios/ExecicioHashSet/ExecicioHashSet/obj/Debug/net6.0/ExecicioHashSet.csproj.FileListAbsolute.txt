@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\bin\Debug\net6.0\ExecicioHashSet.exe
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\bin\Debug\net6.0\ExecicioHashSet.deps.json
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\bin\Debug\net6.0\ExecicioHashSet.runtimeconfig.json
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\bin\Debug\net6.0\ExecicioHashSet.dll
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\bin\Debug\net6.0\ExecicioHashSet.pdb
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.AssemblyInfo.cs
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.dll
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\refint\ExecicioHashSet.dll
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.pdb
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ExecicioHashSet.genruntimeconfig.cache
+C:\Users\leona\source\repos\ExecicioHashSet\ExecicioHashSet\obj\Debug\net6.0\ref\ExecicioHashSet.dll

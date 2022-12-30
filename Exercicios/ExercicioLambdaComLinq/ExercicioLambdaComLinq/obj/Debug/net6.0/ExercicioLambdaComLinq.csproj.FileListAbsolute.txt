@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\bin\Debug\net6.0\ExercicioLambdaComLinq.exe
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\bin\Debug\net6.0\ExercicioLambdaComLinq.deps.json
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\bin\Debug\net6.0\ExercicioLambdaComLinq.runtimeconfig.json
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\bin\Debug\net6.0\ExercicioLambdaComLinq.dll
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\bin\Debug\net6.0\ExercicioLambdaComLinq.pdb
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.AssemblyInfo.cs
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.dll
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\refint\ExercicioLambdaComLinq.dll
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.pdb
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ExercicioLambdaComLinq.genruntimeconfig.cache
+C:\Users\leona\source\repos\ExercicioLambdaComLinq\ExercicioLambdaComLinq\obj\Debug\net6.0\ref\ExercicioLambdaComLinq.dll

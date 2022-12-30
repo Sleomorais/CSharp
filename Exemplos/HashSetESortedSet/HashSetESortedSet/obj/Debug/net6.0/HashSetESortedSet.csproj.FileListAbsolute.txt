@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\bin\Debug\net6.0\HashSetESortedSet.exe
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\bin\Debug\net6.0\HashSetESortedSet.deps.json
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\bin\Debug\net6.0\HashSetESortedSet.runtimeconfig.json
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\bin\Debug\net6.0\HashSetESortedSet.dll
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\bin\Debug\net6.0\HashSetESortedSet.pdb
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.AssemblyInfo.cs
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.dll
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\refint\HashSetESortedSet.dll
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.pdb
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\HashSetESortedSet.genruntimeconfig.cache
+C:\Users\leona\source\repos\HashSetESortedSet\HashSetESortedSet\obj\Debug\net6.0\ref\HashSetESortedSet.dll

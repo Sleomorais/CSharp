@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\bin\Debug\net6.0\ExercicioUrna.exe
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\bin\Debug\net6.0\ExercicioUrna.deps.json
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\bin\Debug\net6.0\ExercicioUrna.runtimeconfig.json
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\bin\Debug\net6.0\ExercicioUrna.dll
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\bin\Debug\net6.0\ExercicioUrna.pdb
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.AssemblyInfo.cs
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.dll
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\refint\ExercicioUrna.dll
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.pdb
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ExercicioUrna.genruntimeconfig.cache
+C:\Users\leona\source\repos\ExercicioUrna\ExercicioUrna\obj\Debug\net6.0\ref\ExercicioUrna.dll

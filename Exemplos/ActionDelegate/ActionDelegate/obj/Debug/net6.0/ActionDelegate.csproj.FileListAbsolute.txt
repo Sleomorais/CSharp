@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\bin\Debug\net6.0\ActionDelegate.exe
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\bin\Debug\net6.0\ActionDelegate.deps.json
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\bin\Debug\net6.0\ActionDelegate.runtimeconfig.json
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\bin\Debug\net6.0\ActionDelegate.dll
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\bin\Debug\net6.0\ActionDelegate.pdb
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfo.cs
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.dll
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\refint\ActionDelegate.dll
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.pdb
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ActionDelegate.genruntimeconfig.cache
+C:\Users\leona\source\repos\ActionDelegate\ActionDelegate\obj\Debug\net6.0\ref\ActionDelegate.dll

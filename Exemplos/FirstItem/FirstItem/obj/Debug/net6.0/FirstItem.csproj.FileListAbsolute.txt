@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\FirstItem\FirstItem\bin\Debug\net6.0\FirstItem.exe
+C:\Users\leona\source\repos\FirstItem\FirstItem\bin\Debug\net6.0\FirstItem.deps.json
+C:\Users\leona\source\repos\FirstItem\FirstItem\bin\Debug\net6.0\FirstItem.runtimeconfig.json
+C:\Users\leona\source\repos\FirstItem\FirstItem\bin\Debug\net6.0\FirstItem.dll
+C:\Users\leona\source\repos\FirstItem\FirstItem\bin\Debug\net6.0\FirstItem.pdb
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.AssemblyInfo.cs
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.dll
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\refint\FirstItem.dll
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.pdb
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\FirstItem.genruntimeconfig.cache
+C:\Users\leona\source\repos\FirstItem\FirstItem\obj\Debug\net6.0\ref\FirstItem.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Predicatte\Predicatte\bin\Debug\net6.0\Predicatte.exe
+C:\Users\leona\source\repos\Predicatte\Predicatte\bin\Debug\net6.0\Predicatte.deps.json
+C:\Users\leona\source\repos\Predicatte\Predicatte\bin\Debug\net6.0\Predicatte.runtimeconfig.json
+C:\Users\leona\source\repos\Predicatte\Predicatte\bin\Debug\net6.0\Predicatte.dll
+C:\Users\leona\source\repos\Predicatte\Predicatte\bin\Debug\net6.0\Predicatte.pdb
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.AssemblyInfo.cs
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.dll
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\refint\Predicatte.dll
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.pdb
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\Predicatte.genruntimeconfig.cache
+C:\Users\leona\source\repos\Predicatte\Predicatte\obj\Debug\net6.0\ref\Predicatte.dll

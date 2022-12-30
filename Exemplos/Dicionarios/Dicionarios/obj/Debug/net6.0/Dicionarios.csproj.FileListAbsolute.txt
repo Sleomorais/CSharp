@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.exe
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.deps.json
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.runtimeconfig.json
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.dll
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.pdb
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.AssemblyInfo.cs
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.dll
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\refint\Dicionarios.dll
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.pdb
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.genruntimeconfig.cache
+C:\Users\leona\source\repos\Dicionarios\Dicionarios\obj\Debug\net6.0\ref\Dicionarios.dll

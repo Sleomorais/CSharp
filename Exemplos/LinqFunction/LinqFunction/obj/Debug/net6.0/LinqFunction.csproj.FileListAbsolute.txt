@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\bin\Debug\net6.0\LinqFunction.exe
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\bin\Debug\net6.0\LinqFunction.deps.json
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\bin\Debug\net6.0\LinqFunction.runtimeconfig.json
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\bin\Debug\net6.0\LinqFunction.dll
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\bin\Debug\net6.0\LinqFunction.pdb
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.AssemblyInfo.cs
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.dll
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\refint\LinqFunction.dll
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.pdb
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\LinqFunction.genruntimeconfig.cache
+C:\Users\leona\source\repos\LinqFunction\LinqFunction\obj\Debug\net6.0\ref\LinqFunction.dll

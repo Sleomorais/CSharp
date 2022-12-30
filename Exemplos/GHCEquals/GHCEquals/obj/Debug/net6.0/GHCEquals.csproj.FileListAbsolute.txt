@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\bin\Debug\net6.0\GHCEquals.exe
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\bin\Debug\net6.0\GHCEquals.deps.json
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\bin\Debug\net6.0\GHCEquals.runtimeconfig.json
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\bin\Debug\net6.0\GHCEquals.dll
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\bin\Debug\net6.0\GHCEquals.pdb
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.AssemblyInfo.cs
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.dll
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\refint\GHCEquals.dll
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.pdb
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\GHCEquals.genruntimeconfig.cache
+C:\Users\leona\source\repos\GHCEquals\GHCEquals\obj\Debug\net6.0\ref\GHCEquals.dll
